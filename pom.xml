@@ -55,11 +55,11 @@
 		</plugins>
 	</build>
 
-	<distributionManagement>
+	<!--<distributionManagement>
 		<repository>
 			<id>nexuslocal</id>
 			<url>http://localhost:8081/nexus</url>
 		</repository>
-	</distributionManagement>
+	</distributionManagement>-->
 
 </project>
