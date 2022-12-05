@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>ru.cit</groupId>
 	<artifactId>versioning</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>versioning</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
@@ -33,7 +33,7 @@
 
 	<scm>
 		<connection>scm:git:https://github.com/timerzyanov/versioning</connection>
-      <tag>HEAD</tag>
+      <tag>5</tag>
   </scm>
 
 	<build>
