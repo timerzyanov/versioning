@@ -57,8 +57,8 @@
 
 	<distributionManagement>
 		<repository>
-			<id>nexus-site</id>
-			<url>http://localhost:8081/artifactory/maven-snapshots</url>
+			<id>nexuslocal</id>
+			<url>http://localhost:8081/nexus</url>
 		</repository>
 	</distributionManagement>
 
